@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Cadastro de Ferramentas</string>
+    <string name="attention">Atenção</string>
+    <string name="back_button">Voltar</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_question">Deseja excluir?</string>
+    <string name="no_ferramenta_description">Adiciona uma ferramenta</string>
+    <string name="edit_ferramenta_title">Editar ferramentas</string>
+    <string name="ferramenta">Ferramenta</string>
+    <string name="ferramenta_detail_title">Detalhes da ferramenta</string>
+    <string name="ferramenta_entry_title">Adicione uma ferramenta</string>
+    <string name="ferramenta_nome">Nome da ferramenta*</string>
+    <string name="ferramenta_modelo">Modelo da ferramenta*</string>
+    <string name="ferramenta_data_emprestimo">Data de emprestimo da ferramenta*</string>
+    <string name="ferramenta_fabricante">Fabricante da ferramenta*</string>
+    <string name="ferramenta_quantidade">Quantidade de ferramenta*</string>
+    <string name="no">Não</string>
+    <string name="quantity_in_stock">Quantidade de ferramentas em estoque</string>
+    <string name="in_stock">%d em estoque</string>
+    <string name="quantity_req">Quantidade em estoque*</string>
+    <string name="save_action">Salvar</string>
+    <string name="yes">Sim</string>
+    <string name="required_fields">*Campos obrigatórios</string>
+</resources>
